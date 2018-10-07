@@ -1639,6 +1639,11 @@ Noida
 - Bio: Interactive Developer
 - GitHub: [Mon555](https://github.com/mon555)
 
+#### Name: [Mr.T959](https://github.com/t959/)
+- Place: Jawa Tengah, Indonesia
+- Bio: No Body Cares
+- GitHub: [Mr.T959](https://github.com/t959/)
+
 #### Name: [Murilo Arruda](https://github.com/Passok11)
 - Place: Petrópolis, Rio de Janeiro, Brazil
 - Bio: Full Stack Student
